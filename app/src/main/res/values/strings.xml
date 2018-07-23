@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LinearEquation Solver</string>
+    <string name="equation_hint">Enter a linear equation</string>
 </resources>
